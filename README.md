@@ -11,7 +11,8 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-A portfolio project involving a detailed analysis of 37,997 high school/college student records to showcase key insights through the aid of effective visualizations aimed at evaluating the factors affecting student's academic performance in high school and colleges in the USA.
+What We Did: We examined data from 37,997 high school and college students in the USA.
+Our Aim: We used charts and graphs to uncover the factors influencing student academic performance.
 
 ## Dataset
 
@@ -65,12 +66,13 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 
 ## Key Insights
 
-- The African American students are the least represented while the 'other' category of students are the most represented in our student's sample.						
-- Average number of years spent by students in school is 14 years for students of all ethnicities.	
+- African American students are underrepresented, while the 'other' category is the most prevalent.
+    				
+- Regardless of background, students typically spend 14 years in school.	
 						
-- There was no considerable effect of a student's age on their academic scores.						
+- Student age appears to have little impact on academic performance					
 
-- Students from high income homes pay on average slightly higher student tuition (0.72% higher) than those from low income homes.
+- Students from affluent families pay slightly higher tuition fees.
 						
 - Students from high incomes homes pay a country tuition of averagely 1.23% higher than those from low-income homes
 						
@@ -80,13 +82,13 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 - Students with both parents not educated perform the least in academic scores and have lesser years of education than those with both or either parents educated						
 - Average country tuition for the western region of the country is very much lower than other regions of the country.
 					
-- There is no considerable difference in academic scores of students in the different regions/settlement type	
+- Different regions do not significantly affect student scores.	
 					
 - Average academic scores per student across all region is 51%						
 
-- Male students on average have better academic scores than female students	
+- On average, male students outperform female students.
 
-- In terms of academic performance, Asians rank better than all other ethnic groups in the country.
+- Asian students excel academically compared to other ethnic groups.
 
 - A plot of academic scores for all students shows a symmetrical distribution	
 
@@ -99,5 +101,3 @@ To ascertain a root cause analysis, we attempted to answer the followimg questio
 ![image1](https://user-images.githubusercontent.com/88894128/209207928-053987ee-5ffd-4d7f-b5ac-517a2037b9f0.png)
 
 
-## Acknowledgments
-Special thanks to Entry level for providing the dataset for this project and to the Data Analyst 3: Advanced SQL class tutor - Nabeel for the lessons and knowledge gained.
