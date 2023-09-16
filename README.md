@@ -11,9 +11,8 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
-What We Did: We examined data from 37,997 high school and college students in the USA.
-
-Our Aim: We used charts and graphs to uncover the factors influencing student academic performance.
+- What We Did: We examined data from 37,997 high school and college students in the USA.
+- Our Aim: We used charts and graphs to uncover the factors influencing student academic performance.
 
 ## Dataset
 
